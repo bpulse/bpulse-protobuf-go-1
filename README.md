@@ -1,2 +1,2 @@
 # bpulse-protobuf-go
-Go client for BPulse 
+Go Pulse structs for BPulse
