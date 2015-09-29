@@ -1,7 +1,7 @@
 package main
 
 import (
-    PROTO "bpulse-protobuf-go/com.bpulse.protobuf/go"
+    PROTO "github.com/theskyinflames/bpulse-protobuf-go/com.bpulse.protobuf/go"
 
 )
 
