@@ -1,2 +1,2 @@
 # bpulse-protobuf-go
-Go Pulse structs for BPulse
+Go Pulse proto messages RQ/RS structs for BPulse
